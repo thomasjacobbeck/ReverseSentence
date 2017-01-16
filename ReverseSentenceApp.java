@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * This simply asks the user for a sentence, add prints out the characters backwards
+ * This simply asks the user for a sentence, and prints out the characters backwards.
  * exampleString --> gnirtSelpmaxe
  * @author Tom
  *
